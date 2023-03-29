@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "What's your favorite movie ?",
+      "description": "In an application containing popular movies, you can save what you want to watch as favorites and remove them from your list after watching. Can add new movies.",
+      "relative": ["react", "redux", "router", "axios", "vercel"],
+      "img": "img-1.png",
+      "className": "3.8rem",
+      "github": "https://github.com/MeltemElgun/fsweb-s10g2-redux-filmler",
+      "vercel": "https://fsweb-s10g2-redux-filmler-git-main-meltemelgun.vercel.app/movies",
+      "background": "#ddeefe"
+    },
+    {
+      "id": 2,
+      "name": "What is a Gratitude Journal?",
+      "description": "Write the things you're grateful for on a daily basis. If you are determined to be green or find it easier to do things digitally, this app is for you!",
+      "relative": [
+        "react",
+        "router",
+        "redux",
+        "axios",
+        "vercel",
+        "date-fns",
+        "react-hook-form",
+        "react-toastify",
+        "redux-logger",
+        "redux-thunk"
+      ],
+      "img": "img-2.png",
+      "className": "2.8rem",
+      "github": "https://github.com/MeltemElgun/fsweb-s10-challenge",
+      "vercel": "https://fsweb-s10-challenge-tau.vercel.app/",
+      "background": "#d9f6f1"
+    }
+  ]
+}
